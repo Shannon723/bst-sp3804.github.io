@@ -26,6 +26,12 @@ Let's link to useful tools for data science:
 
 # Local image
 
+Here's my visa photo:
+
+1. html version- for control the styling & size easily
+<img src = "images/visa copy.jpg" style="width:75%">
+
+2. import image
 ![](images/visa copy.jpg)
 
 
